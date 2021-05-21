@@ -182,7 +182,7 @@ elif Sport == 'MLB':
             except:
                 print("here")
         df[pos] = df[pos].str.replace("_", "-")
-     #df = df[['G1', 'G2', 'G3', 'F1', 'F2', 'F3', 'F4','Total Score']]
+     df = df[['P', 'C_1B', '2B', '3B', 'SS', 'OF1', 'OF2', 'OF3', 'OF4', 'Total Score']]
      dfPlayerName = df
      for pos in positions:
         dfPlayerName[pos] = dfPlayerName[pos].replace(playersNameDict)
