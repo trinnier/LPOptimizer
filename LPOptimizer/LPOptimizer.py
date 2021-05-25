@@ -4,8 +4,6 @@ import openpyxl
 import re
 import numpy as np
 
-
-
 Sport = input('Enter Sport..... ')
 teams = pd.DataFrame()
 dfplayers = pd.DataFrame()
@@ -39,7 +37,7 @@ elif Sport == 'WNBA':
     pos_num_available = {"G": 3,
                          "F": 4}
     salary_cap = 40000
-    players = pd.read_csv('FanDuel-WNBA-2021-05-21.csv', usecols= ['Id', 'Position', 'FPPG', 'Salary', 'Nickname', 'Injury Indicator'])
+    players = pd.read_csv('FanDuel-WNBA-2021-05-25.csv', usecols= ['Id', 'Position', 'FPPG', 'Salary', 'Nickname', 'Injury Indicator'])
     teams2021 = pd.read_excel('WNBA-teams.xlsx', 'Sheet1')
     teams2020 = pd.read_excel('WNBA-teams.xlsx', 'Sheet2')
     teams2019 = pd.read_excel('WNBA-teams.xlsx', 'Sheet3')
@@ -49,9 +47,12 @@ elif Sport == 'WNBA':
     dfplayers2021 = pd.read_excel('WNBA-2021.xlsx', 'Sheet1')
     dfplayers2020 = pd.read_excel('WNBA-2020.xlsx', 'Sheet1')
     dfplayers2019 = pd.read_excel('WNBA-2019.xlsx', 'Sheet1')
-    #dfplayers = dfplayers.append(dfplayers2021)
-    dfplayers = dfplayers.append(dfplayers2020)
+    dfplayers = dfplayers.append(dfplayers2021)
+    #dfplayers = dfplayers.append(dfplayers2020)
     players = pd.merge(players, dfplayers, how = 'left', left_on= ['Nickname'], right_on = ['PLAYER'])
+    players['Mscore'] = (players['MIN']*0.03) + (players['REB'] * 0.01) + (players['AST'] *0.01) + (players['STL'] *0.01) + (players['PTS'] * 0.04)
+   # dfplayers['Usage'] = 100 * ((dfplayers['FGA'] + 0.44 * dfplayers['FTA'] + dfplayers['TOV']) * 
+   #                         (dfplayers['TM_MIN'] / 5)) / (dfplayers['MIN'] * (dfplayers['TM_FGA'] + 0.44 * dfplayers['TM_FTA'] + dfplayers['TM_TOV']))
 elif Sport == 'MLB':
     pos_num_available = {"P": 1,
                          "C/1B": 1,
@@ -60,7 +61,7 @@ elif Sport == 'MLB':
                          "SS": 1,
                          "OF": 4}
     salary_cap = 35000
-    players = pd.read_csv('FanDuel-MLB-2021-05-21.csv', usecols= ['Id', 'Position', 'FPPG', 'Salary', 'Nickname', 'Injury Indicator', 'Batting Order', 'Mscore'])
+    players = pd.read_csv('FanDuel-MLB-2021-05-25.csv', usecols= ['Id', 'Position', 'FPPG', 'Salary', 'Nickname', 'Injury Indicator', 'Batting Order', 'Mscore'])
     players = players[players['Batting Order'] > 0]
 
 
@@ -76,11 +77,6 @@ conditions = [
 
 choices = [(players['FPPG'] * .75) * players['Mscore']]
 players['Score'] = np.select(conditions, choices, default = players['FPPG'] * .95)
-
-
-
-
-
 
 players.to_csv('Players.csv')
 
@@ -106,7 +102,7 @@ for pos in availables.Position.unique():
 
 
 df2 = pd.DataFrame()
-for lineup in range(1, 20):
+for lineup in range(1, 10):
     _vars = {k: LpVariable.dict(k, v, cat='Binary') for k, v in points.items()}
     prob = LpProblem("Fantasy", LpMaximize)
     
@@ -172,6 +168,7 @@ elif Sport == 'WNBA':
         dfPlayerName[pos] = dfPlayerName[pos].replace(playersNameDict)
 elif Sport == 'MLB':
      newcols = ['2B', '3B', 'C_1B', 'OF1', 'OF2', 'OF3', 'OF4', 'P', 'SS', 'Total Score']
+     print(df.columns)
      df.columns = newcols
      positions = ['P', 'C_1B', '2B', '3B', 'SS', 'OF1', 'OF2', 'OF3', 'OF4']
      removeKeys = ['P_', 'C_1B_', '2B_', '3B_', 'SS_', 'OF_']
