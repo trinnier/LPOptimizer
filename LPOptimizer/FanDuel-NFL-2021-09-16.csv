@@ -1,0 +1,76 @@
+entry_id,contest_id,contest_name,MVP - 1.5X Points,AnyFLEX,AnyFLEX,AnyFLEX,AnyFLEX,"","Instructions"
+"2566303358","63954-248462866","$20K Thu NFL Pooch Punt (150 Entries Max)","63954-63519","63954-27477","63954-90933","63954-26355","63954-54244","","1) Edit your lineup by inserting any player from this list into their appropriate position columns"
+"","","","","","","","","","2) You can paste either the Player ID + Name OR ID from their respective columns"
+"","","","","","","","","","3) Any information to the right of the last position column will be ignored in the upload. Don't leave blank rows. Any entries after a blank row will not be edited"
+"","","","","","","","","","4) You can not use this form to create new entries"
+"","","","","","","","",""
+"","","","","","","","","",Player ID + Player Name,Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Tier,,,Roster Position
+"","","","","","","","","",63954-63519:Daniel Jones,63954-63519,QB,Daniel,Daniel Jones,Jones,21.3799991607666,1,15000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-53331:Taylor Heinicke,63954-53331,QB,Taylor,Taylor Heinicke,Heinicke,10.579999923706055,1,14500,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-7659:Ryan Fitzpatrick,63954-7659,QB,Ryan,Ryan Fitzpatrick,Fitzpatrick,0.7200000286102295,1,14500,NYG@WAS,WAS,NYG,IR,Hip,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-64401:Saquon Barkley,63954-64401,RB,Saquon,Saquon Barkley,Barkley,3.200000047683716,1,14000,NYG@WAS,NYG,WAS,Q,Knee,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-90933:Antonio Gibson,63954-90933,RB,Antonio,Antonio Gibson,Gibson,10.300000190734863,1,12500,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-56250:Terry McLaurin,63954-56250,WR,Terry,Terry McLaurin,McLaurin,8.199999809265137,1,12000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-27477:Sterling Shepard,63954-27477,WR,Sterling,Sterling Shepard,Shepard,20.799999237060547,1,11500,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-54244:Kenny Golladay,63954-54244,WR,Kenny,Kenny Golladay,Golladay,8.399999618530273,1,10500,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-26355:Logan Thomas,63954-26355,TE,Logan,Logan Thomas,Thomas,10.5,1,10000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-69307:Eddy Pineiro,63954-69307,K,Eddy,Eddy Pineiro,Pineiro,0,2,9500,NYG@WAS,WAS,NYG,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-24912:Dustin Hopkins,63954-24912,K,Dustin,Dustin Hopkins,Hopkins,12,1,9500,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-63819:Darius Slayton,63954-63819,WR,Darius,Darius Slayton,Slayton,8,1,9000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-10744:Graham Gano,63954-10744,K,Graham,Graham Gano,Gano,1,1,8500,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-52613:Curtis Samuel,63954-52613,WR,Curtis,Curtis Samuel,Samuel,10.850000381469727,16,8000,NYG@WAS,WAS,NYG,IR,Groin,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-41872:Evan Engram,63954-41872,TE,Evan,Evan Engram,Engram,6.84375,16,7500,NYG@WAS,NYG,WAS,Q,Calf,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-39580:Devontae Booker,63954-39580,RB,Devontae,Devontae Booker,Booker,1.7999999523162842,1,7500,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-14237:Kyle Rudolph,63954-14237,TE,Kyle,Kyle Rudolph,Rudolph,1.7999999523162842,1,7000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-43334:J.D. McKissic,63954-43334,RB,J.D.,J.D. McKissic,McKissic,0.800000011920929,1,7000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-86052:Kadarius Toney,63954-86052,WR,Kadarius,Kadarius Toney,Toney,0.800000011920929,1,6500,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-24671:Adam Humphries,63954-24671,WR,Adam,Adam Humphries,Humphries,2,1,6500,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-54472:Cam Sims,63954-54472,WR,Cam,Cam Sims,Sims,2.200000047683716,1,6000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-71806:Kaden Smith,63954-71806,TE,Kaden,Kaden Smith,Smith,1.4428571973528181,14,6000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-80281:C.J. Board,63954-80281,WR,C.J.,C.J. Board,Board,1.100000023841858,1,5500,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-88109:Gary Brightwell,63954-88109,RB,Gary,Gary Brightwell,Brightwell,1.100000023841858,1,5500,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-93538:Dyami Brown,63954-93538,WR,Dyami,Dyami Brown,Brown,0.30000001192092896,1,5500,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-88699:Jaret Patterson,63954-88699,RB,Jaret,Jaret Patterson,Patterson,0.8999999761581421,1,5500,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-38528:Tyrone Swoopes,63954-38528,TE,Tyrone,Tyrone Swoopes,Swoopes,0,1,5000,NYG@WAS,WAS,NYG,IR,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-72705:John Bates,63954-72705,TE,John,John Bates,Bates,,,5000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-41475:John Ross III,63954-41475,WR,John,John Ross III,Ross III,0.9000000158945719,3,5000,NYG@WAS,NYG,WAS,IR,Hamstring,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-92168:Damion Willis,63954-92168,WR,Damion,Damion Willis,Willis,0,1,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-40977:Ricky Seals-Jones,63954-40977,TE,Ricky,Ricky Seals-Jones,Seals-Jones,0,1,5000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-22037:Lamar Miller,63954-22037,RB,Lamar,Lamar Miller,Miller,0.5333333412806193,3,5000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-29725:Levine Toilolo,63954-29725,TE,Levine,Levine Toilolo,Toilolo,1.1833333174387615,6,5000,NYG@WAS,NYG,WAS,IR,Achilles,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-61982:Tommy Stevens,63954-61982,QB,Tommy,Tommy Stevens,Stevens,2.4000000953674316,1,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-60704:Derrick Dillon,63954-60704,WR,Derrick,Derrick Dillon,Dillon,0,1,5000,NYG@WAS,NYG,WAS,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-130336:Sandro Platzgummer,63954-130336,RB,Sandro,Sandro Platzgummer,Platzgummer,0,1,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-56099:Cullen Gillaspia,63954-56099,RB,Cullen,Cullen Gillaspia,Gillaspia,0.550000011920929,2,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-130338:Rysen John,63954-130338,WR,Rysen,Rysen John,John,0,1,5000,NYG@WAS,NYG,WAS,IR,Ankle,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-62628:DeAndre Carter,63954-62628,WR,DeAndre,DeAndre Carter,Carter,0,1,5000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-90408:Dax Milne,63954-90408,WR,Dax,Dax Milne,Milne,,,5000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-63403:Tae Crowder,63954-63403,RB,Tae,Tae Crowder,Crowder,3,2,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-62127:Cole Hikutini,63954-62127,TE,Cole,Cole Hikutini,Hikutini,0,1,5000,NYG@WAS,NYG,WAS,Q,Hip,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-94262:Antonio Gandy-Golden,63954-94262,WR,Antonio,Antonio Gandy-Golden,Gandy-Golden,0.75,4,5000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-55609:Ryan Izzo,63954-55609,TE,Ryan,Ryan Izzo,Izzo,2.4399999618530273,10,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-59455:Sammis Reyes,63954-59455,TE,Sammis,Sammis Reyes,Reyes,,,5000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-25410:Mike Glennon,63954-25410,QB,Mike,Mike Glennon,Glennon,9.36857169015067,7,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-41155:Taquan Mizzell,63954-41155,WR,Taquan,Taquan Mizzell,Mizzell,,,5000,NYG@WAS,NYG,WAS,Q,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-52931:Eli Penny,63954-52931,RB,Eli,Eli Penny,Penny,0,1,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-64835:Dexter Williams,63954-64835,RB,Dexter,Dexter Williams,Williams,0.4000000059604645,2,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-70342:Temarrick Hemingway,63954-70342,TE,Temarrick,Temarrick Hemingway,Hemingway,0.5,3,5000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-68685:Austin Mack,63954-68685,WR,Austin,Austin Mack,Mack,2.5200000762939454,5,5000,NYG@WAS,NYG,WAS,Q,Hamstring,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-69836:Collin Johnson,63954-69836,WR,Collin,Collin Johnson,Johnson,4.563636432994496,11,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-31184:Jonathan Williams,63954-31184,RB,Jonathan,Jonathan Williams,Williams,0.8666666348775228,3,5000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-41552:Dylan Cantrell,63954-41552,TE,Dylan,Dylan Cantrell,Cantrell,0,2,5000,NYG@WAS,WAS,NYG,IR,Undisclosed,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-71767:Caleb Wilson,63954-71767,TE,Caleb,Caleb Wilson,Wilson,0,1,5000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-72669:Isaiah Wright,63954-72669,WR,Isaiah,Isaiah Wright,Wright,2.7333332697550454,12,5000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-22113:Alfred Morris,63954-22113,RB,Alfred,Alfred Morris,Morris,3.9200000762939453,10,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-24929:Kelvin Benjamin,63954-24929,WR,Kelvin,Kelvin Benjamin,Benjamin,,,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-63330:Mike Weber,63954-63330,RB,Mike,Mike Weber,Weber,,,5000,NYG@WAS,NYG,WAS,Q,Hip,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-130279:Matt Cole,63954-130279,WR,Matt,Matt Cole,Cole,0,1,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-53095:Kyle Allen,63954-53095,QB,Kyle,Kyle Allen,Allen,11.5,4,5000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-55148:Clayton Thorson,63954-55148,QB,Clayton,Clayton Thorson,Thorson,0,1,5000,NYG@WAS,NYG,WAS,Q,Concussion,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-56947:Chris Myarick,63954-56947,TE,Chris,Chris Myarick,Myarick,0,1,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-61555:David Sills,63954-61555,WR,David,David Sills,Sills,0,1,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-56698:Dante Pettis,63954-56698,WR,Dante,Dante Pettis,Pettis,2.2666667302449546,6,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-64762:Nakia Griffin-Stewart,63954-64762,TE,Nakia,Nakia Griffin-Stewart,Griffin-Stewart,,,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-64252:Tony Brown,63954-64252,WR,Tony,Tony Brown,Brown,0,1,5000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-64637:Brian Lewerke,63954-64637,QB,Brian,Brian Lewerke,Lewerke,0,1,5000,NYG@WAS,NYG,WAS,,,,,,MVP - 1.5X Points/AnyFLEX
+"","","","","","","","","",63954-71039:Kelvin Harmon,63954-71039,WR,Kelvin,Kelvin Harmon,Harmon,0,1,5000,NYG@WAS,WAS,NYG,,,,,,MVP - 1.5X Points/AnyFLEX
